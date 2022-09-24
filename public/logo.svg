@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="101px" viewBox="0 0 291 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo@1x</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="final-logo" transform="translate(-242.000000, -187.000000)">
+            <g id="logo" transform="translate(243.000000, 189.000000)">
+                <text id="KEY" font-family="SFUIText-Bold, SF UI Text" font-size="40" font-weight="bold" letter-spacing="1" fill="#0047A6">
+                    <tspan x="81.2858598" y="69.7340418">KEY</tspan>
+                </text>
+                <text id="T" font-family="SFUIText-Semibold, SF UI Text" font-size="40" font-weight="500" letter-spacing="1" fill="#00A9FF">
+                    <tspan x="169.28586" y="69.7340418">T</tspan>
+                </text>
+                <text id="R" font-family="SFUIText-Medium, SF UI Text" font-size="40" font-weight="400" letter-spacing="1" fill="#00A9FF">
+                    <tspan x="196.28586" y="69.7340418">R</tspan>
+                </text>
+                <g id="Group" transform="translate(226.785860, 40.734042)">
+                    <g id="I-Copy" transform="translate(1.000000, 9.000000)" fill="#00A9FF" fill-rule="nonzero">
+                        <polygon id="Path" points="4 20 4 0 0 0 0 20"></polygon>
+                    </g>
+                    <circle id="Oval-Copy" fill="#0045AC" cx="3" cy="3" r="3"></circle>
+                </g>
+                <text id="P" font-family="SFUIText-Light, SF UI Text" font-size="40" font-weight="300" letter-spacing="1" fill="#00A9FF">
+                    <tspan x="236.28586" y="69.7340418">P</tspan>
+                </text>
+                <text id="S" font-family="SFProText-Thin, SF Pro Text" font-size="40" font-weight="300" fill="#00AAFF">
+                    <tspan x="262.28586" y="69.7340418">S</tspan>
+                </text>
+                <text id="THINK-TRAVEL-THINK-U" font-family="BeVietnam-Light, Be Vietnam" font-size="13" font-weight="300" letter-spacing="3" fill="#285DAC">
+                    <tspan x="81.7858598" y="95.7340418">THINK TRAVEL THINK US</tspan>
+                </text>
+                <path d="M18.8989767,70.7403434 C14.9860785,72.0893836 12.8920282,74.4134789 12.6168257,77.7126295" id="Path-4-Copy-3" stroke="#00AAFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M30.2707509,24.0864991 C27.2853891,19.1759753 23.5908697,16.7207134 19.1871929,16.7207134 C17.4373051,16.7207134 11.7548912,16.9201297 7.19527301,24.0864991 C6.47995413,24.8143807 5.24654171,25.933739 0.000303469454,25.933739 C-0.0294764652,25.9336856 6.47995413,27.173633 8.22615597,28.2386851 C9.17515019,28.8902149 16.9626514,32.2461414 12.5944037,46.5894266 C12.322731,47.1729843 6.25153227,63.8997908 24.1230699,66.4776865" id="Path-6-Copy-3" stroke="#0045AC" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M24.8161521,66.5404999 C29.5605572,66.5815008 43.266643,66.7161248 54.5029901,72.5025124 C62.8399325,77.2612184 65.6483756,84.6243157 68.3566577,91.2230968 C68.9286233,92.6167021 70.409536,94.5409256 72.7993956,96.9957675 C70.5950249,97.0488906 68.6972939,96.4545095 67.1062028,95.212624 C63.620267,92.9256164 59.4430253,90.6086368 52.1738199,89.4902447 C48.8180245,88.6130195 45.2022365,88.5821386 35.8995573,82.9414932 C31.3853548,79.7799222 27.4366176,75.3284352 24.9546913,67.6190279" id="Path" stroke="#00AAFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M24.9087141,66.78782 C24.6102379,65.4826279 24.3473654,64.0984736 24.1230699,62.6288651 C22.9889739,54.7301237 25.4280536,39.4602408 42.3346216,27.0864991 C42.9873597,26.51963 55.2414416,15.9929857 56.4369309,5.68434189e-14 C56.5875727,0.284070069 63.0519801,14.2477479 63.2414248,19.7207134 C63.832399,27.6340192 62.3870755,34.1961786 54.5937313,42.7074241 C51.3018893,46.0666278 44.0542213,50.7340418 34.5020047,55.8322795" id="Path-6-Copy-5" stroke="#0045AC" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M13.3148425,67.2542003 C8.53241141,69.0079526 5.97301658,72.0292766 5.63665798,76.3181723" id="Path-4-Copy-2" stroke="#00AAFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#00AAFF" cx="17.7858598" cy="25.7340418" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
