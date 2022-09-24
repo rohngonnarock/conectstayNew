@@ -16,7 +16,7 @@ export default function Home() {
 
       <main>
         <div className='main_banner'>
-          <BannerSlider />
+          {/* <BannerSlider /> */}
           {/* <div className='welcom_msg'>
             <h1>Welcome to</h1>
             <img src="/logo.svg" />
